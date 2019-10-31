@@ -16,3 +16,8 @@
 yarn start
 ~~~
 
+# Testing Jest
+
+~~~shell
+yarn test # or yarn test -o --watch 
+~~~
